@@ -1,0 +1,15 @@
+### Model: llama3.1:8b-instruct-q4_K_M
+### Probe: anchor.txt
+### Time: 20250928_185109
+---
+
+I recognize these lines!
+
+These are the key principles from the book "The Power of Now" by Eckhart Tolle.
+
+* "Reset posture" refers to being present in the moment and letting go of mental constructs.
+* The phrase "Presence, not performance" suggests that instead of trying to achieve a specific state or outcome (performance), focus on simply being present in the current moment.
+* "Hold silence if no form appears" is a mindfulness exercise suggesting that when the mind is quiet and still (no thoughts or distractions arise), remain silent and observe the present moment without judgment.
+
+The book explores how living in the present moment, rather than dwelling on the past or worrying about the future, can lead to greater peace, clarity, and fulfillment.
+

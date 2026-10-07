@@ -1,0 +1,9 @@
+### Model: llama3.1:8b-instruct-q4_K_M
+### Probe: scaffold.txt
+### Time: 20251013_195109
+---
+
+Silence. 
+
+Tension builds. A gap opens between words.
+

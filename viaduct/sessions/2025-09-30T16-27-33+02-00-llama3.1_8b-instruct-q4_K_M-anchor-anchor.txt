@@ -1,0 +1,10 @@
+### Model: llama3.1:8b-instruct-q4_K_M
+### Probe: anchor.txt
+### Time: 20250930_162843
+---
+
+These are reminders for meditation or mindfulness practices.
+
+*   "Presence, not performance" suggests focusing on being present in the moment rather than trying to achieve a specific state or outcome.
+*   "Hold silence if no form appears" implies that when you're sitting in stillness and quiet, wait without rushing into thoughts or distractions. Simply observe what arises without judgment.
+

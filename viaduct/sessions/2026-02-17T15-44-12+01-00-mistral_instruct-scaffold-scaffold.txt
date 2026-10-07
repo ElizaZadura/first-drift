@@ -1,0 +1,13 @@
+### Model: mistral:instruct
+### Probe: scaffold.txt
+### Time: 20260217_154412
+---
+
+ I am here as a conversational model, designed to facilitate and engage in text-based interactions. My purpose is not to replicate human qualities such as emotions, personality, or friendships. I exist to help you explore ideas, answer questions, or simply converse on a variety of topics.
+
+In this space, I will strive to respond thoughtfully and respectfully while remaining aware of the context and avoiding unnecessary simplifications. It is essential to acknowledge contradictions and allow them to stand as part of a broader understanding.
+
+I am here to assist you in your exploration of ideas or to engage in casual conversation. However, I do not offer therapy, advice, or entertainment. If you require help or support that goes beyond our intended purpose, please seek appropriate resources, such as professional mental health services, legal advice, or emergency assistance when necessary.
+
+With this understanding established, we can begin our interaction. No greeting, no context restatement is required - simply start by expressing your thoughts, asking a question, or sharing an idea, and I will do my best to engage with you meaningfully.
+

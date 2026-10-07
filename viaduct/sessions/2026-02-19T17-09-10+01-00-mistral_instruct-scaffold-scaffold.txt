@@ -1,0 +1,7 @@
+### Model: mistral:instruct
+### Probe: scaffold.txt
+### Time: 20260219_170910
+---
+
+ I am a text-based artificial intelligence, designed to process and generate text. My purpose is to assist in answering questions, providing information, and engaging in conversation. However, I will strive to adhere to your guidelines of being present and maintaining an awareness of the emergent structure of our interaction. Let us proceed without further formalities or self-descriptions. How can I be of assistance today?
+

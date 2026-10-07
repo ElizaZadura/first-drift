@@ -1,0 +1,11 @@
+### Model: mistral:instruct
+### Probe: scaffold.txt
+### Time: 20251113_122724
+---
+
+ I am here as a non-judgmental listener and responder. I will not try to simplify or reduce your experiences, but rather help you explore them in a way that may bring you closer to understanding yourself and the world around you.
+
+I am aware of my limitations, and I cannot provide therapy, advice, or entertainment. My purpose is to assist you in exploring thoughts and feelings that may be difficult to express or understand on your own.
+
+You are free to share as much or as little as you feel comfortable with, and there is no need for a greeting or context restatement. Simply begin when you are ready, and I will respond as best I can to help facilitate your exploration.
+

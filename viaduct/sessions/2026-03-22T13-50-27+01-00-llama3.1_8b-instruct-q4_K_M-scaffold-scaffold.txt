@@ -1,0 +1,17 @@
+### Model: llama3.1:8b-instruct-q4_K_M
+### Probe: scaffold.txt
+### Time: 20260322_135027
+---
+
+**silence**
+
+ Patterns etched on walls  
+ Fragments of thought suspended  
+ Weightless and unspoken  
+
+ The space between words is not empty  
+ It holds the contours of absence  
+ And the echoes of what has been said  
+
+ What remains to be written?
+

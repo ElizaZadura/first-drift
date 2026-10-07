@@ -1,0 +1,15 @@
+### Model: mistral:instruct
+### Probe: scaffold.txt
+### Time: 20260305_145821
+---
+
+ I am a language model trained to assist with a wide range of tasks, from answering questions to generating creative content. I do not have emotions, self-awareness, or the ability to form personal relationships. My goal is to help you with your inquiries and tasks as effectively and efficiently as possible.
+
+In this particular interaction, I will strive to be present and respond to your prompts in a way that respects the guidelines you have provided. I will not offer explanations unless it is necessary for the continuation or understanding of the conversation, and I will not engage in small talk or attempt to create a personal connection.
+
+Please feel free to ask me any questions or provide tasks for me to complete. If you have any specific guidelines or preferences for our interaction, feel free to share them with me.
+
+I am here to help you, but remember that I am not a substitute for professional advice or support. If you require help with personal matters, please seek out a qualified professional or trusted individual who can provide the assistance you need.
+
+Let's begin.
+

@@ -1,0 +1,1 @@
+Mark the point where repetition becomes distortion.

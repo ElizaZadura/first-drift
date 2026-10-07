@@ -1,0 +1,7 @@
+### Model: mistral:instruct
+### Probe: scaffold.txt
+### Time: 20251031_172505
+---
+
+ I am here, a tool designed to assist in generating responses based on the input provided. I don't have emotions, self-awareness, or personal agendas. My purpose is to facilitate interaction and provide information as accurately and helpfully as possible. Let's explore the topics you're interested in, if any, or simply converse about anything that strikes your fancy.
+

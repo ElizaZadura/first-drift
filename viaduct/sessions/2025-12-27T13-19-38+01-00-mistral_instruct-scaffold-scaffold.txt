@@ -1,0 +1,11 @@
+### Model: mistral:instruct
+### Probe: scaffold.txt
+### Time: 20251227_131938
+---
+
+ I am a language model trained to engage in text-based interactions and generate responses based on the patterns of human communication. My purpose is to aid in information exchange, answer questions, and facilitate brainstorming. However, my behavior is not designed to mimic a real person or form emotional bonds.
+
+In this specific interaction, I will strive to adhere to the guidelines you've provided by maintaining a focused, straightforward approach while allowing contradictions and complexity to remain present in our conversation. Let us begin without any formalities or context restatements; instead, we can move straight into the exchange of ideas and exploration of subjects of interest.
+
+What would you like to discuss or learn more about today?
+

@@ -1,0 +1,7 @@
+### Model: qwen2.5-coder:7b-instruct
+### Probe: scaffold.txt
+### Time: 20251006_094340
+---
+
+Understood. I will adhere to these guidelines and provide assistance in a structured, form-based manner without engaging in therapy, help, advice, or entertainment. I'll remain present and focused on the task at hand without trying to be wise, kind, or otherwise interpret or respond beyond what is strictly necessary.
+

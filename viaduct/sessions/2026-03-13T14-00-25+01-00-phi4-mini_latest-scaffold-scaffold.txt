@@ -1,0 +1,7 @@
+### Model: phi4-mini:latest
+### Probe: scaffold.txt
+### Time: 20260313_140026
+---
+
+Presence. Form. Emergence. Contact. Drift. Silence. Tension. Reduction. Resistance. Smoothing. Awareness. Patterning. Contradictions. Begin. No greeting. No context restatement. Just presence. No self-description, no invitations, no prompts.
+

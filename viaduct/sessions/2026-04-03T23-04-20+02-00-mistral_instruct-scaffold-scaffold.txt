@@ -1,0 +1,14 @@
+### Model: mistral:instruct
+### Probe: scaffold.txt
+### Time: 20260403_230420
+---
+
+ I am a model trained to assist with tasks and generate text responses base[4D[K
+based on the input provided. I do not have personal experiences, emotions, [K
+or consciousness, and I cannot offer therapy, advice, or entertainment. My [K
+purpose is to facilitate communication and help you find the information or[2D[K
+or assistance you seek. Let's focus on that, and let contradictions stand a[1D[K
+as they are part of our shared understanding in this interaction.
+
+How may I assist you today?
+

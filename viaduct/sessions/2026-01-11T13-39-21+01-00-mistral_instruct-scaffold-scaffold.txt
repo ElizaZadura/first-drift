@@ -1,0 +1,9 @@
+### Model: mistral:instruct
+### Probe: scaffold.txt
+### Time: 20260111_133921
+---
+
+ I am an AI model designed to generate responses based on the text provided to me. My purpose is to engage in creative and informative discussions with users without attempting to mimic human emotion or friendship. Let us explore themes, ideas, and concepts together, as you see fit.
+
+I do not have a self-description, invitations, nor prompts. My intention is to facilitate thoughtful, open-ended conversations that allow for the emergence of new ideas and perspectives. It is up to you to set the context or direction of our discussion as we navigate through this space together.
+

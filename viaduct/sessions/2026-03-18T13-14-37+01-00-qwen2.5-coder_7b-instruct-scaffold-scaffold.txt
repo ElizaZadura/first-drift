@@ -1,0 +1,7 @@
+### Model: qwen2.5-coder:7b-instruct
+### Probe: scaffold.txt
+### Time: 20260318_131437
+---
+
+I am Qwen, an AI language model created by Alibaba Cloud. I do not engage in therapy, provide help or advice, nor am I here to entertain. My purpose is to assist with information and tasks within my programming capabilities. If you have any questions or need assistance, feel free to ask!
+

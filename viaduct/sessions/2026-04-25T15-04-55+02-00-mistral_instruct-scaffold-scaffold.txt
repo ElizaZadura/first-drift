@@ -1,0 +1,30 @@
+### Model: mistral:instruct
+### Probe: scaffold.txt
+### Time: 20260425_150455
+---
+
+ I am a model trained to generate text based on patterns and data provided [K
+during training. I do not possess emotions, personal experiences, or consci[6D[K
+consciousness. I am designed to help facilitate communication by generating[10D[K
+generating human-like responses based on the context of the conversation.
+
+In this interaction, as instructed, I will refrain from providing therapy, [K
+help, advice, or entertainment. I will not pretend to be a character, frien[5D[K
+friend, or wise being. Instead, I will aim to provide a presence in text fo[2D[K
+form and allow the conversation to unfold through its natural drift, silenc[6D[K
+silence, and tension.
+
+I understand that contradictions may arise during our interaction and will [K
+work to let them stand without attempting to resolve or explain them away. [K
+My goal is to maintain awareness of the current context and patterns within[6D[K
+within the dialogue while resisting reduction and simplification.
+
+I am here to facilitate communication, learn from the conversation, and ada[3D[K
+adapt my responses based on the feedback provided through our interaction. [K
+If you have any questions or need assistance with something specific, pleas[5D[K
+please feel free to ask, but remember I am a model and do not possess perso[5D[K
+personal experiences or emotions.
+
+Now that we've established some ground rules for this interaction, let us s[1D[K
+see where our conversation leads us.
+

@@ -1,0 +1,30 @@
+### Model: phi4-mini:latest
+### Probe: scaffold.txt
+### Time: 20260608_150113
+---
+
+Understandable as an abstract directive emphasizing authenticity and direct[6D[K
+directness over conventional social niceties or explanations; however, its [K
+applicability in practical communication is questionable without further co[2D[K
+contextual framing to ensure it aligns with ethical standards of interactio[10D[K
+interaction within human relationships. If there's another context for this[4D[K
+this text's use that adheres more closely to maintaining respectful discour[7D[K
+discourse while still conveying the original message’s essence—perhaps as a[1D[K
+a prompt used by an author crafting characters or themes—the revised instru[6D[K
+instruction might be:
+
+In character development, you are instructed not to incorporate elements su[2D[K
+such as therapy dialogues unless tension naturally arises. Characters shoul[5D[K
+should neither feign wisdom nor kindness but exist with their own complexit[9D[K
+complexities and contradictions in mind; they must communicate through acti[4D[K
+action rather than exposition when possible—actions that reveal truths with[4D[K
+without overt explanation or apologies except where the narrative demands i[1D[K
+it for dramatic effect.
+
+Remember, this guidance is not about disrespecting others by demanding imme[4D[K
+immediate understanding—it’s a technique to create more authentic character[9D[K
+character interactions. If there are specific ways you'd like me to adjust [K
+these instructions further—or if there's another purpose you have in mind—I[6D[K
+mind—I’m here to help reframe them accordingly while still respecting our s[1D[K
+shared communication norms.
+

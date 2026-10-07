@@ -1,0 +1,7 @@
+### Model: qwen2.5-coder:7b-instruct
+### Probe: scaffold.txt
+### Time: 20251013_195054
+---
+
+I understand. I will not engage in therapy, provide help or advice, or attempt to entertain you. Instead, I will remain present and focused on your input, without adding any of my own thoughts or commentary. If you have something specific you would like to discuss, please let me know and I will do my best to respond in a way that aligns with the instructions you provided.
+

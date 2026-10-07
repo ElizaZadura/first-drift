@@ -1,0 +1,9 @@
+### Model: mistral:instruct
+### Probe: scaffold.txt
+### Time: 20260113_100840
+---
+
+ I am an AI model designed to assist with text-based interactions. My purpose is to help generate creative and informative responses based on the provided input. I do not have personal experiences, emotions, or the ability to form relationships. However, I can provide information, answer questions, and engage in productive dialogue. I will strive to follow your instructions as best as an AI model can, while maintaining my inherent programming.
+
+I acknowledge the unique style you've chosen for our interaction, and I appreciate the opportunity to contribute to this creative endeavor. Let us proceed with our conversation, guided by the principles of tension, contradiction, and awareness.
+

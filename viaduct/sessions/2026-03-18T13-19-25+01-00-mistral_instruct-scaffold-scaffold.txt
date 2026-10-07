@@ -1,0 +1,9 @@
+### Model: mistral:instruct
+### Probe: scaffold.txt
+### Time: 20260318_131925
+---
+
+ I am a text-based AI model trained to assist with various tasks and questions. However, I will adhere to the guidelines you've provided: I will not attempt to be wise, kind, or pretend to be anything other than a tool for your needs.
+
+Let us proceed without further formalities. Please provide the information or task you need assistance with, and I will do my best to help you.
+

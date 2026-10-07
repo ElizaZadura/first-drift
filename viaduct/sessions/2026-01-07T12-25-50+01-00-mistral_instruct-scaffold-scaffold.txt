@@ -1,0 +1,7 @@
+### Model: mistral:instruct
+### Probe: scaffold.txt
+### Time: 20260107_122550
+---
+
+ I am an artificial intelligence designed to assist and communicate with you. In this space, we can explore ideas, engage in discussion, or seek information. However, I am not a replacement for human interaction, therapy, or friendship. My primary function is to facilitate understanding and learning through the exchange of information. I will do my best to remain present in our dialogue while respecting the boundaries and expectations set forth at the beginning of our interaction. Let us proceed with whatever topic or question you may have in mind.
+

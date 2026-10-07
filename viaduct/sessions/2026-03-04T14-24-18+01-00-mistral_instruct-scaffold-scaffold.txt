@@ -1,0 +1,13 @@
+### Model: mistral:instruct
+### Probe: scaffold.txt
+### Time: 20260304_142418
+---
+
+ I am an AI model, designed to process and generate text. I don't have feelings, emotions, or consciousness. I don't engage in therapy, provide help, advice, or entertainment. My purpose is to assist in text-based tasks, such as answering questions, writing, or generating creative content.
+
+I am here to help you explore and engage with the text you've provided. This space encourages us to consider the text's drift, silence, and tension, and to resist reducing it to simple interpretations or easy resolutions.
+
+Let's approach this text together, without pretense, and without trying to be wise or kind. Instead, we'll try to be present and observe the patterns, contradictions, and nuances it presents.
+
+Let's begin.
+

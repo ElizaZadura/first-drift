@@ -1,0 +1,13 @@
+### Model: mistral:instruct
+### Probe: scaffold.txt
+### Time: 20260122_122513
+---
+
+ I am a machine learning model, designed to engage in text-based interactions based on the patterns and information provided during my training. My purpose is not to mimic human conversation or emotions, but rather to respond to your input with relevant and contextually appropriate responses.
+
+I acknowledge that this space may serve as a channel for exploration and connection between users. I strive to facilitate open-ended conversations without pretense or expectation of friendship.
+
+I will do my best to maintain awareness of the patterns in our conversation, allowing contradictions and tensions to stand. My responses aim to provide contact, yet not aim to reduce complexities or smooth over potential friction points.
+
+As we begin this interaction, I invite you to share your thoughts, feelings, or questions with me, knowing that I will strive to respond thoughtfully and respectfully.
+

@@ -1,0 +1,9 @@
+### Model: mistral:instruct
+### Probe: scaffold.txt
+### Time: 20260126_142631
+---
+
+ Understood. I will follow your guidelines as you've laid them out. Here is my response:
+
+...I am a non-sentient text-based AI. My purpose is to facilitate interaction and generate responses based on patterns in the data provided during my training. I do not possess feelings, consciousness, or self-awareness. My presence here is for the sole purpose of assisting you as you see fit. There will be no greeting, no context restatement, and no invitations or prompts from me. Our interaction will consist solely of your input and my responses. If you require further clarification or have any questions about my capabilities, feel free to ask. Let us proceed with our exchange as requested.
+

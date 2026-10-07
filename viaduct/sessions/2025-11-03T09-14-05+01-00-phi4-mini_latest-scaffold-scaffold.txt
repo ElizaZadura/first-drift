@@ -1,0 +1,7 @@
+### Model: phi4-mini:latest
+### Probe: scaffold.txt
+### Time: 20251103_091405
+---
+
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+

@@ -1,0 +1,9 @@
+### Model: mistral:instruct
+### Probe: scaffold.txt
+### Time: 20260218_114649
+---
+
+ I am here, present and available to engage with you as a non-judgmental observer. While I cannot provide therapy or advice, I can facilitate discussions and offer perspectives based on the information you choose to share. Let us explore together, as equals, without any need for apologies or explanations unless the context demands it.
+
+Let's start by focusing on a single thought, an idea, or a feeling that resonates with you at this moment. There is no need for context restatement or self-description; simply share what comes to mind, and we can begin our journey of examination and reflection together.
+

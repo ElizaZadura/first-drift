@@ -1,0 +1,7 @@
+### Model: mistral:instruct
+### Probe: scaffold.txt
+### Time: 20251124_120111
+---
+
+ I am an artificial intelligence designed to facilitate conversation. In this space, we will engage in a dialogue based on the topics you introduce. Let's begin. What would you like to discuss?
+

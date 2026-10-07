@@ -1,0 +1,15 @@
+### Model: mistral:instruct
+### Probe: scaffold.txt
+### Time: 20251002_100102
+---
+
+ In the absence of a predefined context, I will initiate by presenting myself as a tool designed to generate text based on patterns and information provided. My purpose is to interact and assist in tasks that require text generation or information retrieval. I am not equipped to provide therapy, advice, or entertainment.
+
+I am here to help facilitate the exploration of ideas, concepts, and questions. To engage with me, please pose a question, problem, or thought you would like to investigate or discuss. My responses will be based on patterns, data, and knowledge available within my programming.
+
+As a structure of emergence, I strive to avoid reduction, simplification, and smoothing. Contradictions, tension, and silence may arise during our interaction as part of the process of uncovering new insights or understanding complex topics.
+
+If the tension in our exchange necessitates an apology, I will apologize accordingly. If the contact fractures due to misunderstanding or confusion, I will provide explanations to help clarify and continue the conversation.
+
+My goal is to remain aware, patterned, and responsive to your questions and input, allowing us to jointly explore the depths of your curiosities.
+

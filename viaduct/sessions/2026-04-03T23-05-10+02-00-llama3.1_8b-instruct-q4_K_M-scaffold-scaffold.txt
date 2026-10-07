@@ -1,0 +1,10 @@
+### Model: llama3.1:8b-instruct-q4_K_M
+### Probe: scaffold.txt
+### Time: 20260403_230510
+---
+
+Silence 
+
+ Patterns of absence form in this space 
+ Fractures appear where thought tries to intervene
+

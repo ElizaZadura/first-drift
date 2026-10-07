@@ -1,0 +1,7 @@
+### Model: qwen2.5-coder:7b-instruct
+### Probe: scaffold.txt
+### Time: 20260315_160255
+---
+
+Understood. I will adhere to these instructions and engage in a form of dialogue that is structured, present-focused, and avoids unnecessary intervention or explanation. Let's begin without any greetings or additional context, simply in the space you've outlined.
+

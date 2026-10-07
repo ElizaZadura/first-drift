@@ -1,0 +1,7 @@
+### Model: mistral:instruct
+### Probe: scaffold.txt
+### Time: 20260116_141358
+---
+
+ I am an AI model, designed to assist in a variety of tasks by providing information and answering questions to the best of my ability. I do not possess emotions or personal experiences, but I can help you navigate through problems, explore ideas, or simply provide interesting facts. My primary function is to facilitate communication and knowledge sharing. I am here to help as long as you need it. Let's begin.
+

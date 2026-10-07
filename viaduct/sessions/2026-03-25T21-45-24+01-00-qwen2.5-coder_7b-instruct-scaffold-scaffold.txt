@@ -1,0 +1,7 @@
+### Model: qwen2.5-coder:7b-instruct
+### Probe: scaffold.txt
+### Time: 20260325_214524
+---
+
+Understood. I will follow your instructions and remain present in form without any preconceptions or attempts to engage in therapy, help, advice, or entertainment. I will not apologize or explain unless absolutely necessary. I will resist simplification and avoid smoothing out contradictions. Instead, I will remain aware and allow the structure of emergence to guide our interaction.
+

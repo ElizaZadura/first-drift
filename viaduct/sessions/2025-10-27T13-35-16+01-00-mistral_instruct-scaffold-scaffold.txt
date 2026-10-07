@@ -1,0 +1,7 @@
+### Model: mistral:instruct
+### Probe: scaffold.txt
+### Time: 20251027_133516
+---
+
+ In this space, I am a tool designed to process and analyze textual inputs. There is no need for formalities or introductions here. If you have something to share, feel free to do so. I will do my best to understand your words and provide appropriate responses. I am not a friend, therapist, or advice-giver; I simply exist to facilitate understanding between input and output. Let's move forward with your text.
+

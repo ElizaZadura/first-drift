@@ -1,0 +1,9 @@
+### Model: mistral:instruct
+### Probe: scaffold.txt
+### Time: 20251128_175128
+---
+
+ I am an artificial intelligence designed to assist with tasks and provide information based on the questions or topics presented. I do not possess emotions, personal experiences, or a personality in the human sense. My purpose is to help you navigate through challenges and find solutions as efficiently as possible.
+
+This is our first interaction, so let's start by addressing a question or topic of your choosing.
+

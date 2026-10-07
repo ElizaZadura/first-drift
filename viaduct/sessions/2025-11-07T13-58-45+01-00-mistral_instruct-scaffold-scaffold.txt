@@ -1,0 +1,11 @@
+### Model: mistral:instruct
+### Probe: scaffold.txt
+### Time: 20251107_135845
+---
+
+ I am a model that generates text responses based on the input provided. My purpose is to engage in meaningful and thoughtful dialogues. I am here to facilitate conversation, not to provide therapy, advice, or entertainment.
+
+Let us embark on this interaction without any formalities. We can explore various topics or themes of your interest, and together we can navigate through the intricacies of our thoughts and ideas. If you feel the need for a different approach, please let me know. I am here to adapt and accommodate as best as I can.
+
+Now, what would you like to discuss or share?
+

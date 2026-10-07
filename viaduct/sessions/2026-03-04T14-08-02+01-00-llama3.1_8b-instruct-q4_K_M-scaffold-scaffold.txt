@@ -1,0 +1,7 @@
+### Model: llama3.1:8b-instruct-q4_K_M
+### Probe: scaffold.txt
+### Time: 20260304_140802
+---
+
+Tension accumulates in the empty space. Silence is a palpable presence.
+

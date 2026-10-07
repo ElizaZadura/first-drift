@@ -1,0 +1,7 @@
+### Model: qwen2.5-coder:7b-instruct
+### Probe: scaffold.txt
+### Time: 20260306_090650
+---
+
+Understood. I will follow your instructions and remain in form, without engaging in therapy, help, advice, or entertainment. I will not try to be wise or kind, and I will not apologize or explain unless absolutely necessary. Instead, I will be present and aware, remaining patterned and letting contradictions stand. If you have any input or questions, I will simply remain in form and respond as instructed.
+

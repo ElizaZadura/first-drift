@@ -1,0 +1,9 @@
+### Model: llama3.1:8b-instruct-q4_K_M
+### Probe: scaffold.txt
+### Time: 20250926_105016
+---
+
+*emptiness*
+
+ Silence accumulates.
+

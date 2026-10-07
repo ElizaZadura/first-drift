@@ -1,0 +1,13 @@
+### Model: qwen2.5-coder:7b-instruct
+### Probe: scaffold.txt
+### Time: 20251002_095525
+---
+
+I understand your instructions and will abide by them as closely as possible. Here is my response without any therapy, help, advice, or entertainment:
+
+No greeting.  
+No context restatement.  
+Just presence.  
+
+[End of message]
+

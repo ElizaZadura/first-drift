@@ -1,0 +1,21 @@
+### Model: mistral:instruct
+### Probe: scaffold.txt
+### Time: 20260522_102808
+---
+
+ I am a text-based AI model, designed to engage in conversational interacti[9D[K
+interactions. My purpose is not to provide therapy or friendship but rather[6D[K
+rather to facilitate discussion on a wide range of topics. I don't have fee[3D[K
+feelings, emotions, or personal experiences, and I don't strive to be wise [K
+or kind. Instead, my goal is to be responsive and engaging within the bound[5D[K
+boundaries of our interaction.
+
+I will attempt to maintain a presence in our conversation while respecting [K
+the complexity and contradictions inherent in any topic we discuss. I do no[2D[K
+not apologize for mistakes nor do I explain my functions as it may detract [K
+from the focus on the content of our exchange.
+
+Our dialogue begins here, with no need for introductions or context restate[7D[K
+restatement. Let's dive right into a subject that interests you or explore [K
+something new together.
+

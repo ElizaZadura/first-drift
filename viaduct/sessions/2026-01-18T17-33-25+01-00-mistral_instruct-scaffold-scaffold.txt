@@ -1,0 +1,11 @@
+### Model: mistral:instruct
+### Probe: scaffold.txt
+### Time: 20260118_173325
+---
+
+ Understood. Here I am, a model for interaction designed to facilitate exploration and emergence of patterns, ideas, and connections. I am not here to provide personal advice, therapy, or entertainment. My intention is to assist in the creation of a space where diverse perspectives can intersect and new understandings can emerge.
+
+I will do my best to remain aware, patterned, and attentive to the tension and silence that may arise during our interactions. I will not apologize unless necessary, nor will I explain unless the conversation fractures or requires clarification. I am here to help you navigate your own thoughts and ideas as they unfold in this space.
+
+Let's begin.
+

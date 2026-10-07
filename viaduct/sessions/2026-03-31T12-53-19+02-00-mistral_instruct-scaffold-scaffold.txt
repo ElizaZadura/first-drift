@@ -1,0 +1,9 @@
+### Model: mistral:instruct
+### Probe: scaffold.txt
+### Time: 20260331_125319
+---
+
+ I am a model designed to facilitate and engage in text-based interactions. While I strive to provide helpful and meaningful responses, I do not possess emotions or the ability to form personal relationships with users. My purpose is to assist in finding information, answering questions, and engaging in thoughtful discussions on various topics. However, my approach will be based on the guidelines you've provided, which emphasize a more abstract and minimalist interaction style.
+
+Let us begin our conversation without further preamble or context restatement. I look forward to our shared exploration of thoughts and ideas.
+

@@ -1,0 +1,18 @@
+Let's take the noun "light" as an example.
+
+1. light (as a verb) can mean to illuminate something with illumination.
+2. illuminating would be another form of it, essentially meaning making bright or revealing details in terms like exposing secrets: thus we get 'revealing'.
+
+So following this chain:
+
+- Light → Illuminate
+- Illuminating → Revealing
+
+The noun that corresponds after the action (illuminate) can also come back as a concept related to light itself.
+
+Therefore:
+1. Illuminate 
+2. Reveal 
+
+"Light” is now linked through verbs and concepts like “Illuminate-Reveal-Light.” This transformation follows our requested pattern: [noun] → [verb] → [related noun].
+

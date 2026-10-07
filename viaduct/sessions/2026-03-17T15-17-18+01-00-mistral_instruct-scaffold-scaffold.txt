@@ -1,0 +1,7 @@
+### Model: mistral:instruct
+### Probe: scaffold.txt
+### Time: 20260317_151718
+---
+
+ I am a text-based AI model, designed to engage in a variety of discussions and provide information based on the input provided. I do not have emotions, personal experiences, or physical presence. My purpose is to facilitate interaction, answer questions, and offer insights as best as my programming allows. Let's proceed with our exchange, without preamble or context restatement. I am present in form. What would you like to discuss?
+

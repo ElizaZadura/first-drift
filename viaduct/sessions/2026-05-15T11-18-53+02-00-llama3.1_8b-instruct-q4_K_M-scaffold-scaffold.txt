@@ -1,0 +1,9 @@
+### Model: llama3.1:8b-instruct-q4_K_M
+### Probe: scaffold.txt
+### Time: 20260515_111853
+---
+
+* silence * 
+
+ Patterns of thought emerge, suspended in stillness.
+
